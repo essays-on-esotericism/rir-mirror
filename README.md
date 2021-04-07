@@ -1,2 +1,2 @@
 # rir-mirror
-A mirror of RIR extended statistics
+A mirror of RIR extended statistics, synced hourly.
