@@ -1,7 +1,7 @@
-2|afrinic|20210628|12709|00000000|20210628|00000
+2|afrinic|20210629|12723|00000000|20210629|00000
 afrinic|*|asn|*|3326|summary
 afrinic|*|ipv4|*|4498|summary
-afrinic|*|ipv6|*|4885|summary
+afrinic|*|ipv6|*|4899|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1230|1|19910301|allocated|F36B9F4B
@@ -936,7 +936,7 @@ afrinic|NG|asn|37540|1|20121221|allocated|F368726B
 afrinic|MR|asn|37541|1|20130107|allocated|F36834D9
 afrinic|ZA|asn|37542|1|20130107|allocated|F3676EF0
 afrinic|ZZ|asn|37543|1||reserved|
-afrinic|TD|asn|37544|1|20130115|allocated|F3683DE1
+afrinic|ZZ|asn|37544|1||reserved|
 afrinic|BI|asn|37545|1|20130116|allocated|F36AEDA2
 afrinic|ZA|asn|37546|1|20130121|allocated|F366715D
 afrinic|ZZ|asn|37547|1||reserved|
@@ -3382,7 +3382,6 @@ afrinic|TZ|ipv4|41.73.192.0|8192|20100325|allocated|F3696DE6
 afrinic|NG|ipv4|41.73.224.0|8192|20100406|allocated|F3656665
 afrinic|BJ|ipv4|41.74.0.0|4096|20091026|allocated|F36BC33B
 afrinic|MG|ipv4|41.74.16.0|4096|20100115|allocated|F36303B6
-afrinic|TD|ipv4|41.74.32.0|4096|20100119|allocated|F3683DE1
 afrinic|BW|ipv4|41.74.48.0|4096|20100215|allocated|F3610F96
 afrinic|LY|ipv4|41.74.64.0|4096|20100322|allocated|F367D0C5
 afrinic|GH|ipv4|41.74.80.0|4096|20100413|allocated|F36FF038
@@ -7462,6 +7461,7 @@ afrinic|ZZ|ipv4|41.57.124.0|1024||reserved|
 afrinic|ZZ|ipv4|41.67.192.0|16384||reserved|
 afrinic|ZZ|ipv4|41.72.0.0|16384||reserved|
 afrinic|ZZ|ipv4|41.73.64.0|8192||reserved|
+afrinic|ZZ|ipv4|41.74.32.0|4096||reserved|
 afrinic|ZZ|ipv4|41.74.224.0|4096||reserved|
 afrinic|ZZ|ipv4|41.75.224.0|8192||reserved|
 afrinic|ZZ|ipv4|41.76.48.0|2048||reserved|
@@ -7558,7 +7558,8 @@ afrinic|ZZ|ipv4|102.177.76.0|1024||reserved|
 afrinic|ZZ|ipv4|102.177.88.0|2048||reserved|
 afrinic|ZZ|ipv4|102.181.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.183.0.0|65536||reserved|
-afrinic|ZZ|ipv4|102.219.60.0|1024||reserved|
+afrinic|ZZ|ipv4|102.219.52.0|1024||reserved|
+afrinic|ZZ|ipv4|102.219.56.0|2048||reserved|
 afrinic|ZZ|ipv4|102.219.64.0|4096||reserved|
 afrinic|ZZ|ipv4|102.219.80.0|1024||reserved|
 afrinic|ZZ|ipv4|102.219.86.0|512||reserved|
@@ -7584,7 +7585,6 @@ afrinic|ZZ|ipv4|102.220.120.0|1024||reserved|
 afrinic|ZZ|ipv4|102.220.127.0|256||reserved|
 afrinic|ZZ|ipv4|102.220.128.0|512||reserved|
 afrinic|ZZ|ipv4|102.220.216.0|1024||reserved|
-afrinic|ZZ|ipv4|102.220.220.0|256||reserved|
 afrinic|ZZ|ipv4|102.223.152.0|512||reserved|
 afrinic|ZZ|ipv4|102.224.0.0|1048576||reserved|
 afrinic|ZZ|ipv4|105.178.128.0|32768||reserved|
@@ -7817,9 +7817,9 @@ afrinic|ZZ|ipv4|102.219.20.0|512||available|
 afrinic|ZZ|ipv4|102.219.23.0|256||available|
 afrinic|ZZ|ipv4|102.219.24.0|2048||available|
 afrinic|ZZ|ipv4|102.219.32.0|4096||available|
-afrinic|ZZ|ipv4|102.219.48.0|2048||available|
-afrinic|ZZ|ipv4|102.219.56.0|1024||available|
+afrinic|ZZ|ipv4|102.219.48.0|1024||available|
 afrinic|ZZ|ipv4|102.220.100.0|256||available|
+afrinic|ZZ|ipv4|102.220.220.0|256||available|
 afrinic|ZZ|ipv4|102.221.132.0|1024||available|
 afrinic|ZZ|ipv4|102.221.136.0|2048||available|
 afrinic|ZZ|ipv4|102.223.180.0|1024||available|
@@ -9165,7 +9165,21 @@ afrinic|ZZ|ipv6|2001:43fc:400::|38||available|
 afrinic|ZZ|ipv6|2001:43fc:800::|37||available|
 afrinic|ZZ|ipv6|2001:43fc:1000::|36||available|
 afrinic|ZZ|ipv6|2001:43fc:2000::|35||available|
-afrinic|ZZ|ipv6|2001:43fc:4000::|34||available|
+afrinic|KE|ipv6|2001:43fc:4000::|48|20210628|assigned|F36E084C
+afrinic|ZZ|ipv6|2001:43fc:4001::|48||available|
+afrinic|ZZ|ipv6|2001:43fc:4002::|47||available|
+afrinic|ZZ|ipv6|2001:43fc:4004::|46||available|
+afrinic|ZZ|ipv6|2001:43fc:4008::|45||available|
+afrinic|ZZ|ipv6|2001:43fc:4010::|44||available|
+afrinic|ZZ|ipv6|2001:43fc:4020::|43||available|
+afrinic|ZZ|ipv6|2001:43fc:4040::|42||available|
+afrinic|ZZ|ipv6|2001:43fc:4080::|41||available|
+afrinic|ZZ|ipv6|2001:43fc:4100::|40||available|
+afrinic|ZZ|ipv6|2001:43fc:4200::|39||available|
+afrinic|ZZ|ipv6|2001:43fc:4400::|38||available|
+afrinic|ZZ|ipv6|2001:43fc:4800::|37||available|
+afrinic|ZZ|ipv6|2001:43fc:5000::|36||available|
+afrinic|ZZ|ipv6|2001:43fc:6000::|35||available|
 afrinic|ZA|ipv6|2001:43fc:8000::|40|20210405|assigned|F3614F54
 afrinic|ZZ|ipv6|2001:43fc:8100::|40||available|
 afrinic|ZZ|ipv6|2001:43fc:8200::|39||available|
