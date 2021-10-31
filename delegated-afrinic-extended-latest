@@ -1,6 +1,6 @@
-2|afrinic|20211030|13316|00000000|20211030|00000
+2|afrinic|20211031|13315|00000000|20211031|00000
 afrinic|*|asn|*|3326|summary
-afrinic|*|ipv4|*|4635|summary
+afrinic|*|ipv4|*|4634|summary
 afrinic|*|ipv6|*|5355|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
@@ -7701,7 +7701,7 @@ afrinic|ZZ|ipv4|102.177.76.0|1024||reserved|
 afrinic|ZZ|ipv4|102.177.88.0|2048||reserved|
 afrinic|ZZ|ipv4|102.181.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.183.0.0|65536||reserved|
-afrinic|ZZ|ipv4|102.217.188.0|1024||reserved|
+afrinic|ZZ|ipv4|102.217.184.0|2048||reserved|
 afrinic|ZZ|ipv4|102.217.196.0|1024||reserved|
 afrinic|ZZ|ipv4|102.217.208.0|256||reserved|
 afrinic|ZZ|ipv4|102.217.211.0|256||reserved|
@@ -7953,7 +7953,6 @@ afrinic|ZZ|ipv4|102.217.0.0|32768||available|
 afrinic|ZZ|ipv4|102.217.128.0|8192||available|
 afrinic|ZZ|ipv4|102.217.160.0|4096||available|
 afrinic|ZZ|ipv4|102.217.176.0|2048||available|
-afrinic|ZZ|ipv4|102.217.184.0|1024||available|
 afrinic|ZZ|ipv4|102.217.192.0|1024||available|
 afrinic|ZZ|ipv4|102.217.209.0|256||available|
 afrinic|ZZ|ipv4|102.217.210.0|256||available|
