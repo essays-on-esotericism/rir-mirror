@@ -1,7 +1,7 @@
-2.3|lacnic|20211031|81380|19870101|20211029|-0300
+2.3|lacnic|20211101|81381|19870101|20211101|-0300
 lacnic|*|ipv4|*|19143|summary
 lacnic|*|ipv6|*|48971|summary
-lacnic|*|asn|*|13266|summary
+lacnic|*|asn|*|13267|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated|310248
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated|311598
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated|301675
@@ -81173,7 +81173,8 @@ lacnic|PE|asn|272004|1|20211025|allocated|327758
 lacnic|AR|asn|272005|1|20211025|allocated|328485
 lacnic|AR|asn|272006|1|20211025|allocated|57957
 lacnic|CO|asn|272007|1|20211029|allocated|212201
-lacnic||asn|272008|149||available
+lacnic|PE|asn|272008|1|20211101|allocated|325447
+lacnic||asn|272009|148||available
 lacnic|BR|asn|272157|1|20210824|allocated|325945
 lacnic|BR|asn|272158|1|20210824|allocated|307869
 lacnic|BR|asn|272159|1|20210824|allocated|313793
