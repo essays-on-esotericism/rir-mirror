@@ -1,6 +1,6 @@
-2|afrinic|20211220|13469|00000000|20211220|00000
+2|afrinic|20211221|13470|00000000|20211221|00000
 afrinic|*|asn|*|3326|summary
-afrinic|*|ipv4|*|4692|summary
+afrinic|*|ipv4|*|4693|summary
 afrinic|*|ipv6|*|5451|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
@@ -4474,6 +4474,7 @@ afrinic|SD|ipv4|102.181.128.0|16384|20170616|allocated|F366600B
 afrinic|SD|ipv4|102.181.192.0|8192|20170616|allocated|F366600B
 afrinic|ZA|ipv4|102.182.0.0|65536|20170602|allocated|F363520F
 afrinic|EG|ipv4|102.184.0.0|524288|20170517|allocated|F3625D7B
+afrinic|ZA|ipv4|102.217.28.0|1024|20211220|allocated|F362B8A8
 afrinic|ZA|ipv4|102.217.44.0|1024|20211215|allocated|F3695F64
 afrinic|UG|ipv4|102.217.56.0|1024|20211209|allocated|F36D392F
 afrinic|ZA|ipv4|102.217.60.0|1024|20211213|allocated|F363D26D
@@ -7753,7 +7754,7 @@ afrinic|ZZ|ipv4|102.177.88.0|2048||reserved|
 afrinic|ZZ|ipv4|102.181.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.183.0.0|65536||reserved|
 afrinic|ZZ|ipv4|102.217.20.0|1024||reserved|
-afrinic|ZZ|ipv4|102.217.24.0|2048||reserved|
+afrinic|ZZ|ipv4|102.217.24.0|1024||reserved|
 afrinic|ZZ|ipv4|102.217.52.0|1024||reserved|
 afrinic|ZZ|ipv4|102.217.96.0|2048||reserved|
 afrinic|ZZ|ipv4|102.217.104.0|1024||reserved|
@@ -7764,7 +7765,6 @@ afrinic|ZZ|ipv4|102.217.136.0|1024||reserved|
 afrinic|ZZ|ipv4|102.217.168.0|1024||reserved|
 afrinic|ZZ|ipv4|102.217.209.0|256||reserved|
 afrinic|ZZ|ipv4|102.217.255.0|256||reserved|
-afrinic|ZZ|ipv4|102.218.18.0|512||reserved|
 afrinic|ZZ|ipv4|102.219.75.0|256||reserved|
 afrinic|ZZ|ipv4|102.220.0.0|1024||reserved|
 afrinic|ZZ|ipv4|102.221.144.0|1024||reserved|
@@ -8013,6 +8013,7 @@ afrinic|ZZ|ipv4|102.217.32.0|2048||available|
 afrinic|ZZ|ipv4|102.217.40.0|1024||available|
 afrinic|ZZ|ipv4|102.217.48.0|1024||available|
 afrinic|ZZ|ipv4|102.217.210.0|256||available|
+afrinic|ZZ|ipv4|102.218.18.0|512||available|
 afrinic|ZZ|ipv4|102.219.74.0|256||available|
 afrinic|ZZ|ipv4|102.221.132.0|1024||available|
 afrinic|ZZ|ipv4|102.221.136.0|2048||available|
