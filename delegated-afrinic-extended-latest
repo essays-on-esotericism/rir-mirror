@@ -1,7 +1,7 @@
-2|afrinic|20211221|13470|00000000|20211221|00000
+2|afrinic|20211222|13477|00000000|20211222|00000
 afrinic|*|asn|*|3326|summary
-afrinic|*|ipv4|*|4693|summary
-afrinic|*|ipv6|*|5451|summary
+afrinic|*|ipv4|*|4692|summary
+afrinic|*|ipv6|*|5459|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1230|1|19910301|allocated|F36B9F4B
@@ -7755,7 +7755,7 @@ afrinic|ZZ|ipv4|102.181.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.183.0.0|65536||reserved|
 afrinic|ZZ|ipv4|102.217.20.0|1024||reserved|
 afrinic|ZZ|ipv4|102.217.24.0|1024||reserved|
-afrinic|ZZ|ipv4|102.217.52.0|1024||reserved|
+afrinic|ZZ|ipv4|102.217.48.0|2048||reserved|
 afrinic|ZZ|ipv4|102.217.96.0|2048||reserved|
 afrinic|ZZ|ipv4|102.217.104.0|1024||reserved|
 afrinic|ZZ|ipv4|102.217.112.0|1024||reserved|
@@ -8011,7 +8011,6 @@ afrinic|ZZ|ipv4|102.217.0.0|4096||available|
 afrinic|ZZ|ipv4|102.217.16.0|1024||available|
 afrinic|ZZ|ipv4|102.217.32.0|2048||available|
 afrinic|ZZ|ipv4|102.217.40.0|1024||available|
-afrinic|ZZ|ipv4|102.217.48.0|1024||available|
 afrinic|ZZ|ipv4|102.217.210.0|256||available|
 afrinic|ZZ|ipv4|102.218.18.0|512||available|
 afrinic|ZZ|ipv4|102.219.74.0|256||available|
@@ -10700,7 +10699,15 @@ afrinic|ZZ|ipv6|2c0f:7210::|28||available|
 afrinic|ZZ|ipv6|2c0f:7220::|27||available|
 afrinic|ZZ|ipv6|2c0f:7240::|26||available|
 afrinic|ZZ|ipv6|2c0f:7280::|25||available|
-afrinic|ZZ|ipv6|2c0f:7300::|24||available|
+afrinic|MW|ipv6|2c0f:7300::|32|20211221|allocated|F3610DE1
+afrinic|ZZ|ipv6|2c0f:7301::|32||available|
+afrinic|ZZ|ipv6|2c0f:7302::|31||available|
+afrinic|ZZ|ipv6|2c0f:7304::|30||available|
+afrinic|ZZ|ipv6|2c0f:7308::|29||available|
+afrinic|ZZ|ipv6|2c0f:7310::|28||available|
+afrinic|ZZ|ipv6|2c0f:7320::|27||available|
+afrinic|ZZ|ipv6|2c0f:7340::|26||available|
+afrinic|ZZ|ipv6|2c0f:7380::|25||available|
 afrinic|ZA|ipv6|2c0f:7400::|32|20210211|allocated|F36E6D28
 afrinic|ZZ|ipv6|2c0f:7401::|32||available|
 afrinic|ZZ|ipv6|2c0f:7402::|31||available|
