@@ -1,7 +1,7 @@
-2|afrinic|20211230|13509|00000000|20211230|00000
+2|afrinic|20211231|13512|00000000|20211231|00000
 afrinic|*|asn|*|3326|summary
 afrinic|*|ipv4|*|4696|summary
-afrinic|*|ipv6|*|5487|summary
+afrinic|*|ipv6|*|5490|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1230|1|19910301|allocated|F36B9F4B
@@ -2032,7 +2032,7 @@ afrinic|ZZ|asn|328428|1||reserved|
 afrinic|GA|asn|328429|1|20190206|allocated|F365AF06
 afrinic|EG|asn|328430|1|20190206|allocated|F362D110
 afrinic|ZA|asn|328431|1|20190206|allocated|F36BCFB3
-afrinic|ZZ|asn|328432|1||reserved|
+afrinic|BF|asn|328432|1|20190208|allocated|F362F37F
 afrinic|ZA|asn|328433|1|20190211|allocated|F36E726B
 afrinic|ZA|asn|328434|1|20190211|allocated|F3625A15
 afrinic|SO|asn|328435|1|20190214|allocated|F363336F
@@ -2428,7 +2428,7 @@ afrinic|SD|asn|328824|1|20210329|allocated|F36E687A
 afrinic|NG|asn|328825|1|20210331|allocated|F3683E8B
 afrinic|ZA|asn|328826|1|20210331|allocated|F365C604
 afrinic|GH|asn|328827|1|20210409|allocated|F36B2952
-afrinic|MU|asn|328828|1|20210409|allocated|F36B5EB1
+afrinic|ZZ|asn|328828|1||reserved|
 afrinic|ZA|asn|328829|1|20210409|allocated|F36AF2CB
 afrinic|ZA|asn|328830|1|20210409|allocated|F36FE50D
 afrinic|ZA|asn|328831|1|20210411|allocated|F362C87A
@@ -4239,6 +4239,7 @@ afrinic|MA|ipv4|102.68.8.0|1024|20191120|allocated|F36F9ABA
 afrinic|ZA|ipv4|102.68.12.0|1024|20190313|allocated|F363E823
 afrinic|SO|ipv4|102.68.16.0|1024|20190417|allocated|F365E09B
 afrinic|ZA|ipv4|102.68.24.0|2048|20190222|allocated|F366553A
+afrinic|BF|ipv4|102.68.32.0|2048|20190208|allocated|F362F37F
 afrinic|ZA|ipv4|102.68.40.0|2048|20190211|allocated|F3625A15
 afrinic|SZ|ipv4|102.68.48.0|1024|20190416|allocated|F36628E9
 afrinic|CD|ipv4|102.68.56.0|2048|20190225|allocated|F365C754
@@ -4686,7 +4687,6 @@ afrinic|ZA|ipv4|102.220.122.0|512|20210907|allocated|F363EA43
 afrinic|MA|ipv4|102.220.124.0|256|20210608|allocated|F363B3BB
 afrinic|ZA|ipv4|102.220.127.0|256|20210815|allocated|F3678362
 afrinic|ZA|ipv4|102.220.132.0|1024|20210319|allocated|F3659877
-afrinic|MU|ipv4|102.220.136.0|1024|20210409|allocated|F36B5EB1
 afrinic|LY|ipv4|102.220.140.0|1024|20210322|allocated|F36C3A58
 afrinic|ZA|ipv4|102.220.144.0|1024|20210324|allocated|F36A8200
 afrinic|ZA|ipv4|102.220.148.0|1024|20210225|allocated|F36C65C6
@@ -7739,7 +7739,6 @@ afrinic|ZZ|ipv4|102.36.232.0|1024||reserved|
 afrinic|ZZ|ipv4|102.36.244.0|1024||reserved|
 afrinic|ZZ|ipv4|102.64.80.0|2048||reserved|
 afrinic|ZZ|ipv4|102.68.23.0|256||reserved|
-afrinic|ZZ|ipv4|102.68.32.0|2048||reserved|
 afrinic|ZZ|ipv4|102.68.52.0|1024||reserved|
 afrinic|ZZ|ipv4|102.68.127.0|256||reserved|
 afrinic|ZZ|ipv4|102.68.184.0|1024||reserved|
@@ -7772,6 +7771,7 @@ afrinic|ZZ|ipv4|102.217.255.0|256||reserved|
 afrinic|ZZ|ipv4|102.218.18.0|512||reserved|
 afrinic|ZZ|ipv4|102.219.75.0|256||reserved|
 afrinic|ZZ|ipv4|102.220.0.0|1024||reserved|
+afrinic|ZZ|ipv4|102.220.136.0|1024||reserved|
 afrinic|ZZ|ipv4|102.221.144.0|1024||reserved|
 afrinic|ZZ|ipv4|102.222.16.0|1024||reserved|
 afrinic|ZZ|ipv4|102.222.52.0|1024||reserved|
@@ -10070,7 +10070,7 @@ afrinic|ZZ|ipv6|2c0f:2910::|28||available|
 afrinic|ZZ|ipv6|2c0f:2920::|27||available|
 afrinic|ZZ|ipv6|2c0f:2940::|26||available|
 afrinic|ZZ|ipv6|2c0f:2980::|25||available|
-afrinic|MU|ipv6|2c0f:2a00::|32|20210409|allocated|F36B5EB1
+afrinic|ZZ|ipv6|2c0f:2a00::|32||available|
 afrinic|ZZ|ipv6|2c0f:2a01::|32||available|
 afrinic|ZZ|ipv6|2c0f:2a02::|31||available|
 afrinic|ZZ|ipv6|2c0f:2a04::|30||available|
@@ -11380,7 +11380,10 @@ afrinic|ZA|ipv6|2c0f:ecc0::|32|20190206|allocated|F36595BA
 afrinic|ZZ|ipv6|2c0f:ecc1::|32||reserved|
 afrinic|ZZ|ipv6|2c0f:ecc2::|31||reserved|
 afrinic|ZZ|ipv6|2c0f:ecc4::|30||reserved|
-afrinic|ZZ|ipv6|2c0f:ecc8::|29||reserved|
+afrinic|BF|ipv6|2c0f:ecc8::|32|20190208|allocated|F362F37F
+afrinic|ZZ|ipv6|2c0f:ecc9::|32||reserved|
+afrinic|ZZ|ipv6|2c0f:ecca::|31||reserved|
+afrinic|ZZ|ipv6|2c0f:eccc::|30||reserved|
 afrinic|ZA|ipv6|2c0f:ecd0::|32|20190211|allocated|F36E726B
 afrinic|ZZ|ipv6|2c0f:ecd1::|32||reserved|
 afrinic|ZZ|ipv6|2c0f:ecd2::|31||reserved|
