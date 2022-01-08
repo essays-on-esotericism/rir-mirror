@@ -1,7 +1,7 @@
-2|afrinic|20220107|13522|00000000|20220107|00000
+2|afrinic|20220108|13526|00000000|20220108|00000
 afrinic|*|asn|*|3326|summary
-afrinic|*|ipv4|*|4698|summary
-afrinic|*|ipv6|*|5498|summary
+afrinic|*|ipv4|*|4699|summary
+afrinic|*|ipv6|*|5501|summary
 afrinic|ZA|asn|1228|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1229|1|19910301|allocated|F36B9F4B
 afrinic|ZA|asn|1230|1|19910301|allocated|F36B9F4B
@@ -1069,7 +1069,7 @@ afrinic|ZA|asn|37673|1|20130624|allocated|F36DF4B4
 afrinic|MU|asn|37674|1|20130626|allocated|F36AF9EE
 afrinic|ZA|asn|37675|1|20130627|allocated|F3674008
 afrinic|NG|asn|37676|1|20130702|allocated|F3640C3C
-afrinic|ZZ|asn|37677|1||reserved|
+afrinic|CD|asn|37677|1|20220107|allocated|F3623FB8
 afrinic|BW|asn|37678|1|20130710|allocated|F365F086
 afrinic|UG|asn|37679|1|20130712|allocated|F36544F3
 afrinic|ZA|asn|37680|1|20130715|allocated|F36FC6C8
@@ -3572,6 +3572,7 @@ afrinic|BJ|ipv4|41.79.216.0|1024|20120223|allocated|F3677E0A
 afrinic|ZA|ipv4|41.79.220.0|1024|20120223|allocated|F36B5EE7
 afrinic|BI|ipv4|41.79.224.0|1024|20120309|allocated|F36AEDA2
 afrinic|KE|ipv4|41.79.228.0|1024|20090907|allocated|F36A83BB
+afrinic|CD|ipv4|41.79.232.0|1024|20090831|allocated|F3623FB8
 afrinic|GN|ipv4|41.79.236.0|1024|20090831|allocated|F3637EE8
 afrinic|ZA|ipv4|41.79.240.0|1024|20090828|allocated|F36312D2
 afrinic|MZ|ipv4|41.79.244.0|1024|20090827|allocated|F36F6E4A
@@ -4889,6 +4890,7 @@ afrinic|CI|ipv4|102.223.160.0|1024|20200403|allocated|F36F230C
 afrinic|ZA|ipv4|102.223.164.0|1024|20200417|allocated|F3657B9B
 afrinic|SL|ipv4|102.223.168.0|1024|20200318|allocated|F36DE338
 afrinic|BF|ipv4|102.223.174.0|512|20200316|allocated|F361243F
+afrinic|CD|ipv4|102.223.176.0|1024|20200306|allocated|F3623FB8
 afrinic|TD|ipv4|102.223.192.0|1024|20200122|allocated|F36B144E
 afrinic|ZA|ipv4|102.223.196.0|1024|20200128|allocated|F364789C
 afrinic|ZA|ipv4|102.223.200.0|1024|20200203|allocated|F364C81D
@@ -7676,7 +7678,6 @@ afrinic|ZZ|ipv4|41.79.52.0|1024||reserved|
 afrinic|ZZ|ipv4|41.79.128.0|1024||reserved|
 afrinic|ZZ|ipv4|41.79.144.0|1024||reserved|
 afrinic|ZZ|ipv4|41.79.164.0|1024||reserved|
-afrinic|ZZ|ipv4|41.79.232.0|1024||reserved|
 afrinic|ZZ|ipv4|41.86.64.0|8192||reserved|
 afrinic|ZZ|ipv4|41.88.0.0|65536||reserved|
 afrinic|ZZ|ipv4|41.92.136.0|2048||reserved|
@@ -7760,6 +7761,7 @@ afrinic|ZZ|ipv4|102.177.76.0|1024||reserved|
 afrinic|ZZ|ipv4|102.177.88.0|2048||reserved|
 afrinic|ZZ|ipv4|102.181.224.0|8192||reserved|
 afrinic|ZZ|ipv4|102.183.0.0|65536||reserved|
+afrinic|ZZ|ipv4|102.216.244.0|1024||reserved|
 afrinic|ZZ|ipv4|102.216.248.0|2048||reserved|
 afrinic|ZZ|ipv4|102.217.0.0|4096||reserved|
 afrinic|ZZ|ipv4|102.217.24.0|1024||reserved|
@@ -7779,7 +7781,6 @@ afrinic|ZZ|ipv4|102.222.224.0|1024||reserved|
 afrinic|ZZ|ipv4|102.223.108.0|512||reserved|
 afrinic|ZZ|ipv4|102.223.152.0|512||reserved|
 afrinic|ZZ|ipv4|102.223.172.0|256||reserved|
-afrinic|ZZ|ipv4|102.223.176.0|1024||reserved|
 afrinic|ZZ|ipv4|102.223.244.0|1024||reserved|
 afrinic|ZZ|ipv4|102.224.0.0|1048576||reserved|
 afrinic|ZZ|ipv4|105.178.128.0|32768||reserved|
@@ -8014,7 +8015,7 @@ afrinic|ZZ|ipv4|102.216.0.0|32768||available|
 afrinic|ZZ|ipv4|102.216.128.0|16384||available|
 afrinic|ZZ|ipv4|102.216.192.0|8192||available|
 afrinic|ZZ|ipv4|102.216.224.0|4096||available|
-afrinic|ZZ|ipv4|102.216.240.0|2048||available|
+afrinic|ZZ|ipv4|102.216.240.0|1024||available|
 afrinic|ZZ|ipv4|102.217.32.0|2048||available|
 afrinic|ZZ|ipv4|102.217.40.0|1024||available|
 afrinic|ZZ|ipv4|102.217.210.0|256||available|
@@ -13447,7 +13448,10 @@ afrinic|ZA|ipv6|2c0f:ff08::|32|20101129|allocated|F367B857
 afrinic|ZZ|ipv6|2c0f:ff09::|32||reserved|
 afrinic|ZZ|ipv6|2c0f:ff0a::|31||reserved|
 afrinic|ZZ|ipv6|2c0f:ff0c::|30||reserved|
-afrinic|ZZ|ipv6|2c0f:ff10::|29||reserved|
+afrinic|CD|ipv6|2c0f:ff10::|32|20101129|allocated|F3623FB8
+afrinic|ZZ|ipv6|2c0f:ff11::|32||reserved|
+afrinic|ZZ|ipv6|2c0f:ff12::|31||reserved|
+afrinic|ZZ|ipv6|2c0f:ff14::|30||reserved|
 afrinic|KE|ipv6|2c0f:ff18::|32|20101207|allocated|F36E0D41
 afrinic|ZZ|ipv6|2c0f:ff19::|32||reserved|
 afrinic|ZZ|ipv6|2c0f:ff1a::|31||reserved|
