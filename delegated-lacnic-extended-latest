@@ -1,7 +1,7 @@
-2.3|lacnic|20220617|83784|19870101|20220617|-0300
+2.3|lacnic|20220618|83786|19870101|20220618|-0300
 lacnic|*|ipv4|*|19419|summary
-lacnic|*|ipv6|*|50687|summary
-lacnic|*|asn|*|13678|summary
+lacnic|*|ipv6|*|50688|summary
+lacnic|*|asn|*|13679|summary
 lacnic|BR|ipv4|24.152.0.0|1024|20200310|allocated|310248
 lacnic|BR|ipv4|24.152.4.0|1024|20200312|allocated|311598
 lacnic|BR|ipv4|24.152.8.0|1024|20200309|allocated|301675
@@ -28885,7 +28885,7 @@ lacnic|MX|ipv6|2801:c4:2c::|48|20200909|assigned|314506
 lacnic||ipv6|2801:c4:2d::|48||available
 lacnic||ipv6|2801:c4:2e::|47||available
 lacnic|MX|ipv6|2801:c4:30::|48|20120514|assigned|73715
-lacnic||ipv6|2801:c4:31::|48||available
+lacnic|MX|ipv6|2801:c4:31::|48|20220618|assigned|328273
 lacnic||ipv6|2801:c4:32::|47||available
 lacnic||ipv6|2801:c4:34::|46||available
 lacnic||ipv6|2801:c4:38::|45||available
@@ -70093,7 +70093,8 @@ lacnic|MX|ipv6|2806:3e6::|32|20220426|allocated|324662
 lacnic|MX|ipv6|2806:3e7::|32|20220513|allocated|334756
 lacnic|MX|ipv6|2806:3e8::|32|20220527|allocated|335266
 lacnic|MX|ipv6|2806:3e9::|32|20220513|allocated|336511
-lacnic||ipv6|2806:3ea::|31||available
+lacnic|MX|ipv6|2806:3ea::|32|20220618|allocated|335727
+lacnic||ipv6|2806:3eb::|32||available
 lacnic||ipv6|2806:3ec::|30||available
 lacnic||ipv6|2806:3f0::|28||available
 lacnic||ipv6|2806:400::|22||available
@@ -81408,7 +81409,7 @@ lacnic|MX|asn|270150|1|20220103|allocated|316831
 lacnic|MX|asn|270151|1|20220103|allocated|314153
 lacnic|MX|asn|270152|1|20220120|allocated|315916
 lacnic|MX|asn|270153|1|20220317|allocated|316955
-lacnic||asn|270154|1||available
+lacnic|MX|asn|270154|1|20220618|allocated|328273
 lacnic|MX|asn|270155|1|20220225|allocated|317544
 lacnic|MX|asn|270156|1|20220329|allocated|241101
 lacnic|MX|asn|270157|1|20220317|allocated|325363
@@ -81418,7 +81419,8 @@ lacnic|MX|asn|270160|1|20220513|allocated|334756
 lacnic||asn|270161|1||available
 lacnic|MX|asn|270162|1|20220527|allocated|335266
 lacnic|MX|asn|270163|1|20220513|allocated|336511
-lacnic||asn|270164|72||available
+lacnic|MX|asn|270164|1|20220618|allocated|335727
+lacnic||asn|270165|71||available
 lacnic|MX|asn|270236|1|20210121|allocated|260407
 lacnic|BR|asn|270237|1|20200114|allocated|308943
 lacnic|BR|asn|270238|1|20200114|allocated|305935
